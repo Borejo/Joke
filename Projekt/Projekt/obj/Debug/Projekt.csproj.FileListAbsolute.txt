@@ -1,0 +1,16 @@
+C:\Users\VLO\Desktop\Projekt\Projekt\bin\Debug\Projekt.exe.config
+C:\Users\VLO\Desktop\Projekt\Projekt\bin\Debug\Projekt.exe
+C:\Users\VLO\Desktop\Projekt\Projekt\bin\Debug\Projekt.pdb
+C:\Users\VLO\Desktop\Projekt\Projekt\obj\Debug\Projekt.csprojAssemblyReference.cache
+C:\Users\VLO\Desktop\Projekt\Projekt\obj\Debug\Projekt.Form1.resources
+C:\Users\VLO\Desktop\Projekt\Projekt\obj\Debug\Projekt.Properties.Resources.resources
+C:\Users\VLO\Desktop\Projekt\Projekt\obj\Debug\Projekt.csproj.GenerateResource.cache
+C:\Users\VLO\Desktop\Projekt\Projekt\obj\Debug\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\VLO\Desktop\Projekt\Projekt\obj\Debug\Projekt.exe
+C:\Users\VLO\Desktop\Projekt\Projekt\obj\Debug\Projekt.pdb
+C:\Users\VLO\Desktop\Projekt\Projekt\obj\Debug\Interop.WMPLib.dll
+C:\Users\VLO\Desktop\Projekt\Projekt\obj\Debug\Projekt.csproj.ResolveComReference.cache
+C:\Users\VLO\Desktop\Projekt\Projekt\bin\Debug\Projekt.exe.manifest
+C:\Users\VLO\Desktop\Projekt\Projekt\bin\Debug\Projekt.application
+C:\Users\VLO\Desktop\Projekt\Projekt\obj\Debug\Projekt.exe.manifest
+C:\Users\VLO\Desktop\Projekt\Projekt\obj\Debug\Projekt.application
